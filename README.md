@@ -1,9 +1,4 @@
 # 👨‍💻 Luiz Fernando
-**`Desenvolvedor FullStack`**
-
-Me chamo Luiz Fernando de Oliveira Ribeiro, tenho 21 anos e sou natural de Minas Gerais, Concluí o ensino médio na EEMVL, cursei Desenvolvimento de Jogos Digitais no SESI/SENAI. Atualmente, estou cursando Ciência da Computação na Newton Paiva Wyden, é estou no 5º Período. 
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
